@@ -1,11 +1,11 @@
 ## What's this all about?
 
-I'm interested in learning Python because it seems to changing slowly enough to get a grip on it -- as opposed to JavaScript where things seem to change from week to week. Since I'm basically a beginner, I'm more interested in gaining real fluency with a language rather than any particular language. The fluency is key as from there I can map the concepts to other languages.
+I'm interested in learning Python because it seems to changing slowly enough to get a grip on it -- as opposed to JavaScript where things seem to change from week to week. Since I'm basically a beginner, I'm more interested in gaining real fluency with *a* language rather than *any particular* language. But fluency is key as, from there, I can map the concepts to other languages.
 
 More specifically, I'm interested in the following areas:
 
     Machine Learning / Deep Learning / Artificial Intelligence
-    Modeling Data
+    Modeling Data (and using it to inform decisions)
     Functional Programming
     Test Driven Design
 
