@@ -1,17 +1,11 @@
-## What's this all about?
+## What's this?
 
-I'm interested in learning Python because it seems to changing slowly enough to get a grip on it -- as opposed to JavaScript where things seem to change from week to week. Since I'm basically a beginner, I'm more interested in gaining real fluency with *a* language rather than *any particular* language. But fluency is key as, from there, I can map the concepts to other languages.
+I need a place to keep track of what I'm learning. That's true for new concepts but also for litte tricks and bits of code that I like.
 
-More specifically, I'm interested in the following areas:
+I'm in the process of reorganizing but this is what I'm thinking will work for now.
 
-    Machine Learning / Deep Learning / Artificial Intelligence
-    Modeling Data (and using it to inform decisions)
-    Functional Programming
-    Test Driven Design
+1. MOOCS - This may become videos and books -- but MOOCs is good for now.
 
-At least initially this going to be broken down into the following sections:
+2. Practice code - There are a ton of sites like [Python Challenge](http://www.pythonchallenge.com), [CodeWars](https://www.codewars.com), [Coderbyte](https://coderbyte.com/), [Project Euler](https://projecteuler.net/) and Reddit's [daily programmer](https://www.reddit.com/r/dailyprogrammer/wiki/challenges). I could use some organization
 
-1. PyChal       - Exercises from [Python Challenge](http://www.pythonchallenge.com)
-2. Short_progs  - Some of Reddit's coding [daily
-   programmer](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
-3. Self-directed projects 
+3. Self-directed cookbook projects like those from [Talk Python To Me](https://training.talkpython.fm/)
